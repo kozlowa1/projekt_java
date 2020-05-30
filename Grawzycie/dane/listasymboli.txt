@@ -1,0 +1,16 @@
+Diode 0 5 Normal
+Diode 0 15 Reversed
+Generator 0 25 Reversed
+Generator 6 35 Normal
+ElectronHead 0 34
+ElectronTail 1 35
+NOT 0 45 Normal
+NOT 0 55 Reversed
+XOR 0 65 Normal
+XOR 0 75 Reversed
+AND 0 85 Normal
+AND 0 95 Reversed
+OR 0 105 Normal
+OR 0 115 Reversed
+NAND 0 125 Normal
+NAND 0 140 Reversed

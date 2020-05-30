@@ -1,0 +1,11 @@
+Generator 6 6 Normal
+Conductor 0 5
+Conductor 1 6
+Diode 6 7 Normal
+ElectronTail 3 4
+ElectronHead 3 5
+ElectronTail 10 6
+ElectronHead 11 6
+ElectronTail 10 7
+ElectronTail 10 8
+ElectronHead 11 8

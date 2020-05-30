@@ -1,0 +1,4 @@
+Generator 6 6 Normal
+ElectronHead 0 5
+ElectronTail 1 6
+Diode 6 7 Normal
