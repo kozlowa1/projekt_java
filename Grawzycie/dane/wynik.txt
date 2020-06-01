@@ -1,11 +1,47 @@
 Generator 6 6 Normal
 Conductor 0 5
 Conductor 1 6
+Conductor 3 4
+Conductor 2 3
 Diode 6 7 Normal
-ElectronTail 3 4
-ElectronHead 3 5
-ElectronTail 10 6
-ElectronHead 11 6
-ElectronTail 10 7
-ElectronTail 10 8
-ElectronHead 11 8
+Diode 15 7 Reversed
+Conductor 15 8
+Conductor 15 9
+Conductor 15 10
+Conductor 15 11
+Conductor 15 12
+Conductor 15 13
+NOT 1 14 Reversed
+Conductor 10 15
+Conductor 11 16
+ElectronHead 1 3
+ElectronTail 0 4
+ElectronTail 3 5
+ElectronHead 2 6
+ElectronHead 4 6
+ElectronTail 11 6
+ElectronTail 19 6
+ElectronHead 20 6
+ElectronTail 7 7
+ElectronHead 8 7
+ElectronHead 12 7
+ElectronTail 15 7
+ElectronHead 16 7
+ElectronHead 20 7
+ElectronTail 11 8
+ElectronTail 15 8
+ElectronTail 19 8
+ElectronHead 20 8
+ElectronHead 15 9
+ElectronTail 8 12
+ElectronTail 15 12
+ElectronHead 7 13
+ElectronHead 11 13
+ElectronHead 15 13
+ElectronTail 1 14
+ElectronTail 12 14
+ElectronHead 4 15
+ElectronTail 5 16
+ElectronHead 8 16
+ElectronTail 9 16
+ElectronHead 10 17

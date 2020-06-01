@@ -61,7 +61,7 @@ import java.io.IOException;
                     setVisible(true);
                     try
                     {
-                        Thread.sleep(1000);
+                        Thread.sleep(500);
                     }
                      catch (InterruptedException ex)
                    {
@@ -78,7 +78,7 @@ import java.io.IOException;
                     setVisible(true);
                      try
                     {
-                        Thread.sleep(1000);
+                        Thread.sleep(500);
                     }
                     catch(InterruptedException ex)
                     {
